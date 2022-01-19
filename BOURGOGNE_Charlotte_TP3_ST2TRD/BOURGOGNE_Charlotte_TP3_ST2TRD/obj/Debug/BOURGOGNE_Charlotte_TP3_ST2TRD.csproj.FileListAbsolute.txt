@@ -1,0 +1,6 @@
+D:\Trading C# Lab\Lab3\BOURGOGNE_Charlotte_TP3_ST2TRD\BOURGOGNE_Charlotte_TP3_ST2TRD\obj\Debug\BOURGOGNE_Charlotte_TP3_ST2TRD.csprojAssemblyReference.cache
+D:\Trading C# Lab\Lab3\BOURGOGNE_Charlotte_TP3_ST2TRD\BOURGOGNE_Charlotte_TP3_ST2TRD\obj\Debug\BOURGOGNE_Charlotte_TP3_ST2TRD.csproj.CoreCompileInputs.cache
+D:\Trading C# Lab\Lab3\BOURGOGNE_Charlotte_TP3_ST2TRD\BOURGOGNE_Charlotte_TP3_ST2TRD\bin\Debug\BOURGOGNE_Charlotte_TP3_ST2TRD.exe
+D:\Trading C# Lab\Lab3\BOURGOGNE_Charlotte_TP3_ST2TRD\BOURGOGNE_Charlotte_TP3_ST2TRD\bin\Debug\BOURGOGNE_Charlotte_TP3_ST2TRD.pdb
+D:\Trading C# Lab\Lab3\BOURGOGNE_Charlotte_TP3_ST2TRD\BOURGOGNE_Charlotte_TP3_ST2TRD\obj\Debug\BOURGOGNE_Charlotte_TP3_ST2TRD.exe
+D:\Trading C# Lab\Lab3\BOURGOGNE_Charlotte_TP3_ST2TRD\BOURGOGNE_Charlotte_TP3_ST2TRD\obj\Debug\BOURGOGNE_Charlotte_TP3_ST2TRD.pdb
